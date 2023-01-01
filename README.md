@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on AI
 - 👯 I’m looking to collaborate on AI safety projects
 - 📫 How to reach me: twitter
-- ✍️ Blog: [simonlermen.github.io](simonlermen.github.io)
+- ✍️ Blog: [simonlermen.github.io](https://simonlermen.github.io)
 
 <!--
 **DalasNoin/DalasNoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
